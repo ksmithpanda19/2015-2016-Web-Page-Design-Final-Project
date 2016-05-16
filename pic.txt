@@ -1,0 +1,31 @@
+<br>
+<br>
+<!- This is all HTML for pictures under this note - >
+	<div id ="pic1">
+<img
+src="https://pixabay.com/en/pug-puppy-dog-animal-cute-690566/" style="width: 30%">
+	</div>
+<br>
+<br>
+	<div id ="pic2">
+<img
+src="https://pixabay.com/en/swiss-shepherd-dog-dog-white-animal-354526/" style=width: 30%>
+	</div>
+<br>
+<br>
+	<div id ="pic3">
+img 
+src="https://pixabay.com/en/bernese-mountain-dog-dog-big-dog-1177072/" style="width: 30%
+	</div>
+<br>
+<br>
+	<div id ="pic4">
+<img
+src="https://pixabay.com/en/dog-border-collie-purebred-dog-1184709/" style=width: 30%>
+	</div>
+<br>
+<br>
+	<div id="pic5"
+<img
+src="https://pixabay.com/en/soldier-dog-companion-service-919202/" style=width: 30%>		
+	</div>

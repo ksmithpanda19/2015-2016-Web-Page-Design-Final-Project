@@ -1,1 +1,40 @@
-  canvas { border: 3px solid black; }
+body {
+	background-color: #b3ffff;
+	font-family: American Typewriter;
+	color: #000000;
+	}
+
+#pic1 img {
+	box-shadow: 8px 8px 10px #001;
+	}
+
+
+#pic2 img{
+	border: 10px double #00284d;
+	}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+#pic1 img {
+	float: right;
+	margin; 0 0 1em 1em;
+}
+
+#pic3 img {
+float: left;
+}
+ 
+#pic6 img {
+float: left;
+box-shadow: 8px 8px 10px #001;
+}
+
+#pic7 img {
+float; left;
+box-shadow: 8px 8px 10px #001;
+}
+	
+	
